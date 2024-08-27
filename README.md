@@ -21,4 +21,4 @@ This repository showcases the front-end design and development of the official w
 
 ## Live Website
 
-Explore the live website deployed as the company's official site: [https://digitalsolutionsfordigitallife.com]([https://digitalsolutionsfordigitallife.com)
+Explore the live website deployed as the company's official site: [https://www.digitalsolutionsfordigitallife.com]([https://www.digitalsolutionsfordigitallife.com)
